@@ -1,0 +1,16 @@
+NOT;Invertion;1;10
+
+OR;Disjunction;2;0111
+AND;Conjunction;2;0001
+XOR;Exclusive OR;2;0110
+IMPL;Implication;2;1101
+
+NOR;Peirce arrow;2;1000
+NAND;Sheffer stroke;2;1110
+NXOR;Equilence;2;1001
+NIMPL;Reverse IMPL;2;1011
+
+AND 3;Triple AND;3;00000001
+AND 4;Quadriple AND;4;0000000000000001
+
+
